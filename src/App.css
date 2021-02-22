@@ -1,0 +1,17 @@
+html {
+    font-size: 12px;
+}
+
+body {
+    background-color: rgba(10, 10, 35, 0.85);
+    background-image: url('/images/react-logo.svg'), url('/images/react-logo.svg'), url('/images/react-logo.svg');
+    background-repeat: no-repeat;
+    background-position: 75% 10px, 85% 300px, 60% 450px;
+    background-size: 300px 300px, 200px 200px, 200px 200px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.App {
+    margin-left: 50px;
+}
